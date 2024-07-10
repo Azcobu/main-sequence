@@ -1,0 +1,21 @@
+{
+    "name": "main-sequence",
+    "displayName": "Main Sequence",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Main Sequence",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Main Sequence-color-theme.json"
+            }
+        ]
+    }
+}
