@@ -1,7 +1,8 @@
 {
     "name": "main-sequence",
+    "publisher": "azcobu",
     "displayName": "Main Sequence",
-    "description": "",
+    "description": "A very dark, high contrast theme.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
@@ -14,8 +15,9 @@
             {
                 "label": "Main Sequence",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Main Sequence-color-theme.json"
+                "path": "./themes/main-sequence-color-theme.json"
             }
         ]
-    }
+    },
+    "extensionKind": ["ui"]
 }
